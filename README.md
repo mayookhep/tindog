@@ -1,2 +1,1 @@
-# tindog
-model on tinder page
+TinDog Starting Files
